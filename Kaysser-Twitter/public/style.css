@@ -1,0 +1,59 @@
+body {
+	background-image: url("home_splash.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: "Helvetica Neue", Helvetica, Sans Seriff;
+}
+.navbar {
+	background-color: rgba(209, 239, 199, 0.7);
+}
+.centertext {
+	text-align: center;
+}
+.transcolor {
+	background-color: rgba(209, 239, 199, 0.7);
+}
+.nav {
+	background-color: rgba(209, 239, 199, 0.7);
+}
+.blue {
+	background-color: blue;
+}
+.paddingchange{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-top: 5px;
+	margin-bottom: 3px;
+}
+.btn-default.bluetext {
+	border-color: #2889d8;
+	border-radius: 45px;
+	margin:5px 0;
+}
+.red {
+	color: red;
+}
+.transparent {
+	background-color: transparent;
+}
+.bluetext {
+	color: #2889d8;
+}
+.automargin {
+
+}
+.orangetext {
+	color: #f3ab4c;
+}
+.greytext {
+	color:#aaa;
+}
+p {
+	font-size: 18px;
+	color:black;
+}
+.circle {
+	color:#aaa; 
+	font-size:20px; 
+	line-height:33px;
+}

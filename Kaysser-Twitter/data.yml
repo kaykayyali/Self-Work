@@ -1,0 +1,11 @@
+--- 
+- !ruby/object:User 
+  name: Kaysser
+  sname: kaykayyali
+  email: kaykayyali@gmail.com
+  pass: Password
+- !ruby/object:User 
+  name: Gloria Valencia
+  sname: Gvale
+  email: gvale014@fiu.edu
+  pass: Password
